@@ -1,0 +1,31 @@
+{
+  "name": "AFGH proxy re-encryption",
+  "version": "0.1",
+  "description": "A Proxy Re-Encryption library using Bilinear Map.",
+  "main": "afgh_pre.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": {
+    "name": "Nguyen Truong",
+    "email": "ngbitr@gmail.com",
+    "url": "https://github.com/nguyentb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nguyentb/afgh-pre.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "clean": "^4.0.2",
+    "mcl-wasm": "^0.3.0",
+    "npm": "^6.12.0"
+  },
+  "keywords": [
+    "afgh pre",
+    "bi-linear map",
+    "proxy re-encryption",
+    "pre",
+    "pairing"
+  ]
+}
