@@ -1,6 +1,6 @@
 {
-  "name": "AFGH proxy re-encryption",
-  "version": "0.1",
+  "name": "afgh-pre",
+  "version": "0.0.1",
   "description": "A Proxy Re-Encryption library using Bilinear Map.",
   "main": "afgh_pre.js",
   "scripts": {
