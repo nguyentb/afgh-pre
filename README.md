@@ -6,7 +6,7 @@ A Proxy Re-Encryption library using Bilinear Map. It contains basic functions li
 ### Setup
 Set the generators of `G1` and `G2`. It must pefrom at first.
 ```javascript
-const PRE = require('bm-pre');
+const PRE = require('afgh-pre');
 PRE.init({g: "this is g", h: "that is h", returnHex: true}).then(params => {
     console.log(params)
     //...
