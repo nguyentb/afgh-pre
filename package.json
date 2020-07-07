@@ -19,7 +19,7 @@
   "dependencies": {
     "clean": "^4.0.2",
     "mcl-wasm": "^0.3.0",
-    "npm": "^6.12.0"
+    "npm": "^6.14.6"
   },
   "keywords": [
     "afgh pre",
