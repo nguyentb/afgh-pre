@@ -1,4 +1,7 @@
 # afgh-pre: AFGH06 proxy re-encryption library written in Javascript
+## Refer the paper: G. Ateniese, K. Fu, M. Green, S. Hohenberger, "Improved proxy re-encryption schemes with applications to secure distributed storage", ACM Trans. Inf. Syst. Secur., 9 (1) (2006
+
+
 
 A Proxy Re-Encryption library using Bilinear Map. It contains basic functions like encryption, decryption, re-encryption, re-decryption, sign and verify.
 
@@ -64,7 +67,7 @@ console.log("verify A's signature by C's pk:", PRE.verify(msgHash, sig, C.pk, pa
 ```
 ## Tips
 Almost every input parameters can either be hex `string` or `Object` in group. It'll automatically check the type and convert it to `Object` during caculation if necessary.
-## Algrithom
+## Algorithm
 - **Setup**
 
   $g$ and $h$ are the generators of $G_1$ and $G_2$
