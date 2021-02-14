@@ -1,5 +1,5 @@
 # afgh-pre: AFGH06 proxy re-encryption library written in Javascript
-## Refer the paper: G. Ateniese, K. Fu, M. Green, S. Hohenberger, "Improved proxy re-encryption schemes with applications to secure distributed storage", ACM Trans. Inf. Syst. Secur., 9 (1) (2006
+Refer the paper: ```G. Ateniese, K. Fu, M. Green, S. Hohenberger, "Improved proxy re-encryption schemes with applications to secure distributed storage", ACM Trans. Inf. Syst. Secur., 9 (1) (2006```
 
 
 
